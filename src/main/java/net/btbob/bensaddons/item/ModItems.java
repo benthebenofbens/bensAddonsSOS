@@ -25,7 +25,7 @@ public class ModItems {
     //ITEMS
     public static final RegistryObject<Item> MORTAR_AND_PESTLE = ITEMS.register("mortar_and_pestle", () -> new MortarAndPestleItem(new Item.Properties().durability(16)));
 
-    public static final RegistryObject<Item> INDIGO_MILKCAP_SPORES = ITEMS.register("indigo_milkcap_spores", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> INDIGO_MILKCAP_SPORES = ITEMS.register("indigo_milkcap_spores", () -> new Item(new Item.Properties().food(ModFoods.MUSHROOM_SPORES)));
     //MUSHROOMS
     public static final RegistryObject<BlockItem> INDIGO_MILKCAP_ITEM = ITEMS.register("indigo_milkcap_item", () -> new MushroomBlockItem(MushroomBlocks.INDIGO_MILKCAP.get(), new Item.Properties().food(ModFoods.INEDIBLE_MUSHROOM)));
     public static final RegistryObject<BlockItem> DESERT_SHAGGY_MANE_ITEM = ITEMS.register("desert_shaggy_mane_item", () -> new MushroomBlockItem(MushroomBlocks.DESERT_SHAGGY_MANE.get(), new Item.Properties().food(ModFoods.INEDIBLE_MUSHROOM)));

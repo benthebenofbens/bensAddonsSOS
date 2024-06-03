@@ -65,7 +65,6 @@ public class BensAddons
         ModBlockEntities.register(modEventBus);
 
         ModSounds.register(modEventBus);
-
         ModMenuTypes.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
@@ -204,8 +203,9 @@ public class BensAddons
         public static void onClientSetup(FMLClientSetupEvent event) {
 
             EntityRenderers.register(ModEntities.SPOOK.get(), SpookRenderer::new);
-
             MenuScreens.register(ModMenuTypes.MUSHROOM_GROWING_BOX_MENU.get(), MushroomGrowingBoxScreen::new);
+
+
 
             Sheets.addWoodType(ModWoodTypes.BAOBAB);
             Sheets.addWoodType(ModWoodTypes.MAPLE);

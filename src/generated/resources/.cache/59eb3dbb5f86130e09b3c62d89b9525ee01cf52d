@@ -1,4 +1,4 @@
-// 1.20.2	2024-05-31T09:33:44.374391	Loot Tables
+// 1.20.2	2024-06-03T11:52:50.295541	Loot Tables
 881e34d137578f7b640b95da4fc33ba82d78116a data/bensaddons/loot_tables/blocks/acacia_leaf_pile.json
 4e6f73104723c989303db7bb5bff2890dc6f1c82 data/bensaddons/loot_tables/blocks/acacia_mosaic.json
 8dcc902f9800b06008e22bc556c9e70284bc4d7f data/bensaddons/loot_tables/blocks/aeonium_bush_bottom.json
@@ -338,7 +338,7 @@ a38f65eea154c38a3ef4774c0c7eec399c1aa079 data/bensaddons/loot_tables/blocks/medi
 90c157cc8072d6a18b83a690633aa7f2b0dbe814 data/bensaddons/loot_tables/blocks/milk_cap_mushroom_block.json
 6c2e0c4151b82b0abef0e1c86f7a6b99ee0dcf7e data/bensaddons/loot_tables/blocks/morel_mushroom_block.json
 4d66cf489dbeab82963b134e63f4b9737d6ad7ca data/bensaddons/loot_tables/blocks/mossy_oldstone.json
-6040dd70138f590f9bfd8b3d485ec4cbf625dd4e data/bensaddons/loot_tables/blocks/mushroom_box.json
+58f5a51026a222deda6c5234980a94c4c2b46490 data/bensaddons/loot_tables/blocks/mushroom_growing_box.json
 1d156bbd65e82f2d72eaf981eaa2bec927c7ad80 data/bensaddons/loot_tables/blocks/myceliated_dirt.json
 2e489058b19db1f9dca3ce459bb3cbf92d5993d9 data/bensaddons/loot_tables/blocks/netherstone.json
 2e62940bc6f4d36764499f6880608e7eb44b6809 data/bensaddons/loot_tables/blocks/oak_leaf_pile.json

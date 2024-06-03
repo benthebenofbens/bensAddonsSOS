@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "bensaddons:mushroom_box"
+          "name": "bensaddons:mushroom_growing_box"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "bensaddons:blocks/mushroom_box"
+  "random_sequence": "bensaddons:blocks/mushroom_growing_box"
 }

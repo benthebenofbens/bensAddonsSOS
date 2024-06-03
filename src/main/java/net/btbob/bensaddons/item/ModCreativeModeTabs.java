@@ -3,12 +3,10 @@ package net.btbob.bensaddons.item;
 import net.btbob.bensaddons.BensAddons;
 import net.btbob.bensaddons.block.ModBlocks;
 import net.btbob.bensaddons.block.nature.MushroomBlocks;
-import net.btbob.bensaddons.screen.MushroomGrowingBoxScreen;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Items;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -26,6 +24,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.MORTAR_AND_PESTLE.get());
 
                         //NATURAL BLOCKS
+                        pOutput.accept(MushroomBlocks.MUSHROOM_GROWING_BOX.get());
                         pOutput.accept(ModBlocks.LEAFY_PODZOL.get());
                         pOutput.accept(ModBlocks.GRASSY_PEAT.get());
                         pOutput.accept(ModBlocks.PEAT.get());
@@ -155,6 +154,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(MushroomBlocks.GLOWING_MUSHROOMS.get());
                         pOutput.accept(MushroomBlocks.DEATH_CAP.get());
                         pOutput.accept(MushroomBlocks.INDIGO_MILKCAP.get());
+                        pOutput.accept(ModItems.INDIGO_MILKCAP_SPORES.get());
                         pOutput.accept(MushroomBlocks.INKY_CAP.get());
                         pOutput.accept(MushroomBlocks.LILAC_BONNETS.get());
 
@@ -314,7 +314,6 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.LEAFY_PODZOL.get());
                         pOutput.accept(ModBlocks.GRASSY_PEAT.get());
                         pOutput.accept(ModBlocks.PEAT.get());
-                        pOutput.accept(MushroomBlocks.MUSHROOM_GROWING_BOX.get());
                         pOutput.accept(ModBlocks.RED_CLAY.get());
                         pOutput.accept(ModBlocks.ROCK_SALT.get());
                         pOutput.accept(ModBlocks.PUMICE.get());

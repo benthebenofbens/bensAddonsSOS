@@ -49,7 +49,7 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
         //TOOLS
 simpleItem(ModItems.MORTAR_AND_PESTLE);
-
+simpleItem(ModItems.INDIGO_MILKCAP_SPORES);
 //PLATINUM
 simpleItem(ModItems.RAW_PLATINUM);
 simpleItem(ModItems.PLATINUM_INGOT);
