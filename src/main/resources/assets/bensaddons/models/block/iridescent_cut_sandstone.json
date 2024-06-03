@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bensaddons:block/iridescent_sandstone_top",
+    "side": "bensaddons:block/iridescent_cut_sandstone"
+  }
+}

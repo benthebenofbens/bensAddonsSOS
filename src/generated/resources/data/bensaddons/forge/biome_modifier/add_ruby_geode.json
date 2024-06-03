@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#bensaddons:world_temperate",
+  "features": "bensaddons:ruby_geode_placed",
+  "step": "local_modifications"
+}

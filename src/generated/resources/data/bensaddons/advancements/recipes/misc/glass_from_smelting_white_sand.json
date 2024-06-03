@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:glass_from_smelting_white_sand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_sand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:white_sand"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_sand"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:glass_from_smelting_white_sand"
+    ]
+  },
+  "sends_telemetry_event": false
+}

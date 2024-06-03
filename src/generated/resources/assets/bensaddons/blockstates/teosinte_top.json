@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "bensaddons:block/teosinte_bottom"
+    },
+    "half=upper": {
+      "model": "bensaddons:block/teosinte_top"
+    }
+  }
+}

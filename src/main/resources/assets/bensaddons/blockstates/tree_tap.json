@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bensaddons:block/tree_tap" },
+    "facing=east": { "model": "bensaddons:block/tree_tap", "y": 90 },
+    "facing=south": { "model": "bensaddons:block/tree_tap", "y": 180 },
+    "facing=west": { "model": "bensaddons:block/tree_tap", "y": 270 }
+  }
+}

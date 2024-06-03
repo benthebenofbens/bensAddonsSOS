@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/cracked_chert_bricks",
+    "side": "bensaddons:block/cracked_chert_bricks",
+    "top": "bensaddons:block/cracked_chert_bricks"
+  }
+}

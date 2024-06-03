@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bensaddons:block/black_sandstone_top",
+    "side": "bensaddons:block/black_chiseled_sandstone"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mortar_and_pestle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:mortar_and_pestle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:white_lily_to_dye"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_lily": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:white_lily"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_lily",
+      "has_mortar_and_pestle"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:white_lily_to_dye"
+    ]
+  },
+  "sends_telemetry_event": false
+}

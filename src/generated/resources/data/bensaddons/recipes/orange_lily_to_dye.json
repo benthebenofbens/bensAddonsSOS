@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:orange_lily"
+    },
+    {
+      "item": "bensaddons:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:orange_dye"
+  }
+}

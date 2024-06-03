@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mortar_and_pestle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:mortar_and_pestle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_peony": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:peony"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:peony_bush_to_dye_override"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_peony",
+      "has_mortar_and_pestle"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:peony_bush_to_dye_override"
+    ]
+  },
+  "sends_telemetry_event": false
+}

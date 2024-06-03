@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/polished_chert",
+    "side": "bensaddons:block/polished_chert",
+    "top": "bensaddons:block/polished_chert"
+  }
+}

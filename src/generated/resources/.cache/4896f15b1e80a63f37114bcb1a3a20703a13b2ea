@@ -1,0 +1,25 @@
+// 1.20.2	2024-05-20T09:43:01.147341	Tags for minecraft:block mod id bensaddons
+744c8acaebe053bb6c03fd40ed400c04392f34ee data/bensaddons/tags/blocks/maple_logs.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/bensaddons/tags/blocks/needs_platinum_tool.json
+b502d5d0081253029ffc36a976b85adbd5e6c948 data/bensaddons/tags/blocks/rock_salt_replaceable.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_gold_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_wood_tool.json
+8380b342db24f4c6a6d143cf6c22cfb78f1a6a50 data/minecraft/tags/blocks/climbable.json
+f62277229493e19030b25215a1a00a70fd3c6934 data/minecraft/tags/blocks/dirt.json
+0aca6707a4360af7fe97b344e309d2884e876cd0 data/minecraft/tags/blocks/fence_gates.json
+8805f01c57388e5e564451befffcab63d72b8509 data/minecraft/tags/blocks/leaves.json
+ca3cd9bbb231345210b8bfb0fe7a27416fef3ae5 data/minecraft/tags/blocks/logs_that_burn.json
+06c0ac1b35606c65ab1ecf32f4e694cbca246b12 data/minecraft/tags/blocks/mineable/axe.json
+09dacb876d1208976cdab51bb2ebf0e18dfa646e data/minecraft/tags/blocks/mineable/hoe.json
+dba145fb868c0fc54cf6cf8c6e64e44f48ccb4c9 data/minecraft/tags/blocks/mineable/pickaxe.json
+08446a87c1db7ad12840bbe4b38a2efc9935a93b data/minecraft/tags/blocks/mineable/shovel.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
+8303a4a04e90284936b083a3b0a2f338a5297075 data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
+ce9602f0cf9c368eb5390ebf5e7b97ecd49e60fa data/minecraft/tags/blocks/planks.json
+272cd8e0ec0ec5be2733924f0ca81bc7e60c698c data/minecraft/tags/blocks/sand.json
+97f182813bb50e60783973d6dbe3c058e500cb80 data/minecraft/tags/blocks/small_flowers.json
+034cb5680fdd13c58ff8b000c9f1dfde4c47d702 data/minecraft/tags/blocks/tall_flowers.json
+3dd340e44f95f0bf10deb3f9cde7c5cece392aa7 data/minecraft/tags/blocks/walls.json
+e44b90cad3da37e4fdb5aa2bcf2aa5d7ec05cef1 data/minecraft/tags/blocks/wooden_fences.json

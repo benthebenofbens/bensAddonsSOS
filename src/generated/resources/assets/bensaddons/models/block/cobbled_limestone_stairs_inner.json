@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/cobbled_limestone",
+    "side": "bensaddons:block/cobbled_limestone",
+    "top": "bensaddons:block/cobbled_limestone"
+  }
+}

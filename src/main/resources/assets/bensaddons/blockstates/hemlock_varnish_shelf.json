@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bensaddons:block/hemlock_varnish_shelf" },
+    "facing=east": { "model": "bensaddons:block/hemlock_varnish_shelf", "y": 90 },
+    "facing=south": { "model": "bensaddons:block/hemlock_varnish_shelf", "y": 180 },
+    "facing=west": { "model": "bensaddons:block/hemlock_varnish_shelf", "y": 270 }
+  }
+}

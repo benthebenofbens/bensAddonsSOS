@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bensaddons:block/wax_cap_mushroom_block"
+  }
+}

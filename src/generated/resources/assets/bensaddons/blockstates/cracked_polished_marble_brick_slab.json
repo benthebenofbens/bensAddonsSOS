@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/cracked_polished_marble_brick_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/cracked_polished_marble_bricks"
+    },
+    "type=top": {
+      "model": "bensaddons:block/cracked_polished_marble_brick_slab_top"
+    }
+  }
+}

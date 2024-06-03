@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bensaddons:block/footprints_fossil" },
+    "facing=east": { "model": "bensaddons:block/footprints_fossil", "y": 90 },
+    "facing=south": { "model": "bensaddons:block/footprints_fossil", "y": 180 },
+    "facing=west": { "model": "bensaddons:block/footprints_fossil", "y": 270 }
+  }
+}

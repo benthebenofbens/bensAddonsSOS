@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bensaddons:block/ammonite_fossil" },
+    "facing=east": { "model": "bensaddons:block/ammonite_fossil", "y": 90 },
+    "facing=south": { "model": "bensaddons:block/ammonite_fossil", "y": 180 },
+    "facing=west": { "model": "bensaddons:block/ammonite_fossil", "y": 270 }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_destroying_angel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:destroying_angel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_mortar_and_pestle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:mortar_and_pestle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:destroying_angel_to_dye"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_destroying_angel",
+      "has_mortar_and_pestle"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:destroying_angel_to_dye"
+    ]
+  },
+  "sends_telemetry_event": false
+}

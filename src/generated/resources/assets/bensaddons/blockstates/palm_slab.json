@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/palm_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/palm_planks"
+    },
+    "type=top": {
+      "model": "bensaddons:block/palm_slab_top"
+    }
+  }
+}

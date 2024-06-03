@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "bensaddons:block/opuntia_cactus_bottom"
+    },
+    "half=upper": {
+      "model": "bensaddons:block/opuntia_cactus_top"
+    }
+  }
+}

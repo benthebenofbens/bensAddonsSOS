@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "bensaddons:block/yucca_bottom"
+    },
+    "half=upper": {
+      "model": "bensaddons:block/yucca_top"
+    }
+  }
+}

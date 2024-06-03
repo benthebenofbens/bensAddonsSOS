@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "bensaddons:block/leafy_podzol"
+      },
+      {
+        "model": "bensaddons:block/leafy_podzol",
+        "y": 90
+      },
+      {
+        "model": "bensaddons:block/leafy_podzol",
+        "y": 180
+      },
+      {
+        "model": "bensaddons:block/leafy_podzol",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "minecraft:block/grass_block_snow"
+    }
+  }
+}

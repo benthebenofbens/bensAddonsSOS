@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/dirt",
+    "side": "bensaddons:block/leafy_podzol_side",
+    "top": "bensaddons:block/leafy_podzol_top"
+  }
+}

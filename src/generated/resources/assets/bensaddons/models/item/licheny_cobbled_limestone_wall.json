@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "bensaddons:block/licheny_cobbled_limestone"
+  }
+}

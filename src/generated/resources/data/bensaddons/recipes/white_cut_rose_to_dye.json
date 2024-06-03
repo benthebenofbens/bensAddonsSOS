@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:white_cut_rose"
+    },
+    {
+      "item": "bensaddons:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:light_gray_dye"
+  }
+}

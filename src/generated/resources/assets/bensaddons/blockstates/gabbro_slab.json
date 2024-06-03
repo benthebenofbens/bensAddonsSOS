@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/gabbro_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/gabbro"
+    },
+    "type=top": {
+      "model": "bensaddons:block/gabbro_slab_top"
+    }
+  }
+}

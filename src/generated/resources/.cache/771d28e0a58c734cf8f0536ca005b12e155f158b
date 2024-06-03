@@ -1,0 +1,7 @@
+// 1.20.2	2024-05-30T16:25:08.847426	Tags for minecraft:item mod id bensaddons
+57c8dfa865dca41f781fc5b823183d54591cd2c5 data/bensaddons/tags/items/small_mushrooms.json
+bcefa845c3486062ca9573afcbffc93bc94644f5 data/minecraft/tags/items/logs_that_burn.json
+2f2d312b4916ce0cf64b10eec64598c9a0b3e46d data/minecraft/tags/items/music_discs.json
+ce9602f0cf9c368eb5390ebf5e7b97ecd49e60fa data/minecraft/tags/items/planks.json
+da16b4ea3ca466acdc7a29c8808f5383018e61fa data/minecraft/tags/items/swords.json
+5e82697d38c0ed2971fa631732dfbfdb32e32321 data/minecraft/tags/items/trimmable_armor.json

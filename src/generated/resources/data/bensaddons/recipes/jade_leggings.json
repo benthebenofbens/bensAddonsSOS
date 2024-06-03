@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "J": {
+      "item": "bensaddons:jade"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "JOJ",
+    "O O",
+    "J J"
+  ],
+  "result": {
+    "item": "bensaddons:jade_leggings"
+  },
+  "show_notification": true
+}

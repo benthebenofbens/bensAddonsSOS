@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/pink_sandstone_top",
+    "side": "bensaddons:block/pink_cut_sandstone",
+    "top": "bensaddons:block/pink_sandstone_top"
+  }
+}

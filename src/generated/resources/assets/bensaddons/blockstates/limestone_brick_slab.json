@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/limestone_brick_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/limestone_bricks"
+    },
+    "type=top": {
+      "model": "bensaddons:block/limestone_brick_slab_top"
+    }
+  }
+}

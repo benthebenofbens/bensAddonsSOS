@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "bensaddons:block/red_hibiscus_bush_bottom"
+    },
+    "half=upper": {
+      "model": "bensaddons:block/red_hibiscus_bush_top"
+    }
+  }
+}

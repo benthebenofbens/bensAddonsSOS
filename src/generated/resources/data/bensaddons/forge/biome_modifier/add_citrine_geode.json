@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#bensaddons:mountainous_with_snow",
+  "features": "bensaddons:citrine_geode_placed",
+  "step": "local_modifications"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "J": {
+      "item": "bensaddons:jade"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "JO",
+    " S",
+    " S"
+  ],
+  "result": {
+    "item": "bensaddons:jade_hoe"
+  },
+  "show_notification": true
+}

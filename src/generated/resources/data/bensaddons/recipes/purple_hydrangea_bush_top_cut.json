@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:purple_hydrangea_bush_top"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "bensaddons:purple_cut_hydrangea"
+  }
+}

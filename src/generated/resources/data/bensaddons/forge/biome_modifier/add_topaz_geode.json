@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#bensaddons:arid",
+  "features": "bensaddons:topaz_geode_placed",
+  "step": "local_modifications"
+}

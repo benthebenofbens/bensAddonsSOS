@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:white_rhododendron_top_cut"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_rhododendron_top": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:white_cut_rhododendron"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_rhododendron_top"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:white_rhododendron_top_cut"
+    ]
+  },
+  "sends_telemetry_event": false
+}

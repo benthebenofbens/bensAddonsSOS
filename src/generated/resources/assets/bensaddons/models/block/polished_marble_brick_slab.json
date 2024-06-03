@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "bensaddons:block/polished_marble_bricks",
+    "side": "bensaddons:block/polished_marble_bricks",
+    "top": "bensaddons:block/polished_marble_bricks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#bensaddons:arid",
+  "features": "bensaddons:rock_salt_placed",
+  "step": "underground_ores"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "bensaddons:block/magenta_hydrangea_bush_bottom"
+    },
+    "half=upper": {
+      "model": "bensaddons:block/magenta_hydrangea_bush_top"
+    }
+  }
+}

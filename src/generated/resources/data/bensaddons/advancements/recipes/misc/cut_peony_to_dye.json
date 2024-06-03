@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cut_peony": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:cut_peony"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_mortar_and_pestle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:mortar_and_pestle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:cut_peony_to_dye"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cut_peony",
+      "has_mortar_and_pestle"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:cut_peony_to_dye"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "bensaddons:block/black_cut_sandstone"
+  }
+}

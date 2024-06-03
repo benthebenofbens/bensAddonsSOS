@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "bensaddons:block/polished_slate",
+    "side": "bensaddons:block/polished_slate",
+    "top": "bensaddons:block/polished_slate"
+  }
+}

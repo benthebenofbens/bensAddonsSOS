@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#bensaddons:jungle",
+  "features": "bensaddons:red_clay_placed",
+  "step": "underground_ores"
+}

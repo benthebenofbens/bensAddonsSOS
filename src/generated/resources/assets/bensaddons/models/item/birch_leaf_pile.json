@@ -1,0 +1,6 @@
+{
+  "parent": "bensaddons:block/leaf_pile_inventory",
+  "textures": {
+    "0": "minecraft:block/birch_leaves"
+  }
+}

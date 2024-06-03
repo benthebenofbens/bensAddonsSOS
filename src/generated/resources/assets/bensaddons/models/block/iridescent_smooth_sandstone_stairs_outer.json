@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/iridescent_sandstone_top",
+    "side": "bensaddons:block/iridescent_sandstone_top",
+    "top": "bensaddons:block/iridescent_sandstone_top"
+  }
+}

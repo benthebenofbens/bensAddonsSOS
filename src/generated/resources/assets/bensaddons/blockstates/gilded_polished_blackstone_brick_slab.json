@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/gilded_polished_blackstone_brick_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/gilded_polished_blackstone_bricks"
+    },
+    "type=top": {
+      "model": "bensaddons:block/gilded_polished_blackstone_brick_slab_top"
+    }
+  }
+}

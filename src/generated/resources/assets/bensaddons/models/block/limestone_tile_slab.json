@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "bensaddons:block/limestone_tile",
+    "side": "bensaddons:block/limestone_tile",
+    "top": "bensaddons:block/limestone_tile"
+  }
+}

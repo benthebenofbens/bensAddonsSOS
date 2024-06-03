@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:orange_hibiscus_bush_top"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "bensaddons:orange_cut_hibiscus"
+  }
+}

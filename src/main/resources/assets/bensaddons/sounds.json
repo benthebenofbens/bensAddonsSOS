@@ -1,0 +1,18 @@
+{
+  "minecraft_disc": {
+    "sounds": [
+      {
+        "name": "bensaddons:minecraft_disc",
+        "stream": true
+      }
+    ]
+  },
+  "wet_hands_disc": {
+    "sounds": [
+      {
+        "name": "bensaddons:wet_hands_disc",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "bensaddons:block/white_rhododendron_bottom"
+    },
+    "half=upper": {
+      "model": "bensaddons:block/white_rhododendron_top"
+    }
+  }
+}

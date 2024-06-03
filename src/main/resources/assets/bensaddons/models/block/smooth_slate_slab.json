@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "bensaddons:block/smooth_slate",
+    "side": "bensaddons:block/smooth_slate_slab_side",
+    "top": "bensaddons:block/smooth_slate"
+  }
+}

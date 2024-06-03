@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_opuntia_cactus_top": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:cut_opuntia_cactus"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:opuntia_cactus_top_cut"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_opuntia_cactus_top"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:opuntia_cactus_top_cut"
+    ]
+  },
+  "sends_telemetry_event": false
+}

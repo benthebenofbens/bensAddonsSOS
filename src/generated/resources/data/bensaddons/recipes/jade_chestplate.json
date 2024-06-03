@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "J": {
+      "item": "bensaddons:jade"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "J J",
+    "JOJ",
+    "OOO"
+  ],
+  "result": {
+    "item": "bensaddons:jade_chestplate"
+  },
+  "show_notification": true
+}

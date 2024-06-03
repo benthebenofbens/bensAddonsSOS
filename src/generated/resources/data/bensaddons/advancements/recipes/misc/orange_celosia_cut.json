@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_orange_celosia": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:orange_celosia_bush_top"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:orange_celosia_cut"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_orange_celosia"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:orange_celosia_cut"
+    ]
+  },
+  "sends_telemetry_event": false
+}

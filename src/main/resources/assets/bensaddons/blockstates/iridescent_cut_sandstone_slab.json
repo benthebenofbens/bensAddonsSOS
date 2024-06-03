@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/iridescent_cut_sandstone_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/iridescent_cut_sandstone"
+    },
+    "type=top": {
+      "model": "bensaddons:block/iridescent_cut_sandstone_slab_top"
+    }
+  }
+}

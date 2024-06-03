@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/skulked_cobbled_deepslate",
+    "side": "bensaddons:block/skulked_cobbled_deepslate",
+    "top": "bensaddons:block/skulked_cobbled_deepslate"
+  }
+}

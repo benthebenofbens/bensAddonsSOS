@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "bensaddons:block/cut_quartz_block",
+    "side": "bensaddons:block/cut_quartz_block",
+    "top": "bensaddons:block/cut_quartz_block"
+  }
+}

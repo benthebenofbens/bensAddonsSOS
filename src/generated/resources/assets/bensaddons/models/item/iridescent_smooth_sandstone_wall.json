@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "bensaddons:block/iridescent_smooth_sandstone"
+  }
+}

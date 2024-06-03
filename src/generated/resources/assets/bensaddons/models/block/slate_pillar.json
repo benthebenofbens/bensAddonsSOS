@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bensaddons:block/slate_pillar_top",
+    "side": "bensaddons:block/slate_pillar"
+  }
+}

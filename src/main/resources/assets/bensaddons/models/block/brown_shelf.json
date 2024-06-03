@@ -1,0 +1,8 @@
+{
+	"parent": "bensaddons:block/shelf",
+	"textures": {
+		"0": "bensaddons:block/brown_shelf",
+		"particle": "bensaddons:block/brown_shelf"
+	},
+	"render_type": "minecraft:cutout"
+}

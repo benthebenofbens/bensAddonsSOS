@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#bensaddons:world_tropic_and_arid",
+  "features": "bensaddons:pumice_placed",
+  "step": "underground_ores"
+}

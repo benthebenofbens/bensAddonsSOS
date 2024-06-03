@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bensaddons:item/wet_hands_music_disc"
+  }
+}

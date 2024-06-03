@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/skulked_deepslate_tiles",
+    "side": "bensaddons:block/skulked_deepslate_tiles",
+    "top": "bensaddons:block/skulked_deepslate_tiles"
+  }
+}

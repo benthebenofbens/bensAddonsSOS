@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "bensaddons:block/bitter_oyster" },
+    "facing=east": { "model": "bensaddons:block/bitter_oyster", "y": 90 },
+    "facing=south": { "model": "bensaddons:block/bitter_oyster", "y": 180 },
+    "facing=west": { "model": "bensaddons:block/bitter_oyster", "y": 270 }
+  }
+}

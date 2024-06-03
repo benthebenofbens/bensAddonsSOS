@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "bensaddons:block/pink_celosia_bush_bottom"
+    },
+    "half=upper": {
+      "model": "bensaddons:block/pink_celosia_bush_top"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bensaddons:block/stripped_palm_log",
+    "side": "bensaddons:block/stripped_palm_log"
+  }
+}

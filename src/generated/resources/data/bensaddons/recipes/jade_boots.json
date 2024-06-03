@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "J": {
+      "item": "bensaddons:jade"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "J J",
+    "O O"
+  ],
+  "result": {
+    "item": "bensaddons:jade_boots"
+  },
+  "show_notification": true
+}

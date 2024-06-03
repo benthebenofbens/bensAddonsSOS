@@ -1,0 +1,8 @@
+{
+  "parent": "bensaddons:block/fossil",
+  "textures": {
+    "0": "bensaddons:block/stone_nodule",
+    "1": "bensaddons:block/footprints_fossil",
+    "particle": "bensaddons:block/stone_nodule"
+  }
+}

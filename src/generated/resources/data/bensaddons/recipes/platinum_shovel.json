@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "bensaddons:platinum_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "P",
+    "S",
+    "S"
+  ],
+  "result": {
+    "item": "bensaddons:platinum_shovel"
+  },
+  "show_notification": true
+}

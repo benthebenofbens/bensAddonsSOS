@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/baobab_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/baobab_planks"
+    },
+    "type=top": {
+      "model": "bensaddons:block/baobab_slab_top"
+    }
+  }
+}

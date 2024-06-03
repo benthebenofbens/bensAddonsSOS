@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:white_rose_bush_top"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "bensaddons:white_cut_rose"
+  }
+}

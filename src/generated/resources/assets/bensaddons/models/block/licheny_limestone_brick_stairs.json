@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "bensaddons:block/licheny_limestone_bricks",
+    "side": "bensaddons:block/licheny_limestone_bricks",
+    "top": "bensaddons:block/licheny_limestone_bricks"
+  }
+}

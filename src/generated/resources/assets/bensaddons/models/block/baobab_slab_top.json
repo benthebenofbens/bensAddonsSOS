@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "bensaddons:block/baobab_planks",
+    "side": "bensaddons:block/baobab_planks",
+    "top": "bensaddons:block/baobab_planks"
+  }
+}

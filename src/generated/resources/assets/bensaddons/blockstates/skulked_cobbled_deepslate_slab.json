@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/skulked_cobbled_deepslate_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/skulked_cobbled_deepslate"
+    },
+    "type=top": {
+      "model": "bensaddons:block/skulked_cobbled_deepslate_slab_top"
+    }
+  }
+}

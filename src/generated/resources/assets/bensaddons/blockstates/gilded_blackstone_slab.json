@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/gilded_blackstone_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/gilded_blackstone"
+    },
+    "type=top": {
+      "model": "bensaddons:block/gilded_blackstone_slab_top"
+    }
+  }
+}

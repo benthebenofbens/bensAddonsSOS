@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "bensaddons:block/licheny_cobbled_limestone",
+    "side": "bensaddons:block/licheny_cobbled_limestone",
+    "top": "bensaddons:block/licheny_cobbled_limestone"
+  }
+}

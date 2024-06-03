@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bensaddons:block/ruby_bricks"
+    }
+  }
+}

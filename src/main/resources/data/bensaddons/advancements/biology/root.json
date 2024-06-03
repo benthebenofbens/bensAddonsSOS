@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "bensaddons:textures/block/slate.png",
+    "description": {
+      "translate": "bensaddons.advancements.biology.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "bensaddons:dragonfruit"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "bensaddons.advancements.biology.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "inventory_changed"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

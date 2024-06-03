@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:indigo_milkcap"
+    },
+    {
+      "item": "bensaddons:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:light_blue_dye"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "bensaddons:block/fossil_inventory",
+  "textures": {
+    "1": "bensaddons:block/torchflower_fossil"
+  }
+}

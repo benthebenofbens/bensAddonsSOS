@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "bensaddons:cobbled_limestone"
+    },
+    {
+      "item": "minecraft:glow_lichen"
+    }
+  ],
+  "result": {
+    "item": "bensaddons:licheny_cobbled_limestone"
+  }
+}

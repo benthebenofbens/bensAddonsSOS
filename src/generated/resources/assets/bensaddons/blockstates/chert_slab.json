@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bensaddons:block/chert_slab"
+    },
+    "type=double": {
+      "model": "bensaddons:block/chert"
+    },
+    "type=top": {
+      "model": "bensaddons:block/chert_slab_top"
+    }
+  }
+}

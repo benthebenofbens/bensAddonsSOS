@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:magenta_rhododendron_top"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "bensaddons:magenta_cut_rhododendron"
+  }
+}

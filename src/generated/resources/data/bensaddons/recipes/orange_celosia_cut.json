@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bensaddons:orange_celosia"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "bensaddons:orange_celosia_bush_top"
+  }
+}

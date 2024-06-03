@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "bensaddons:block/slate_bricks",
+    "side": "bensaddons:block/slate_bricks",
+    "top": "bensaddons:block/slate_bricks"
+  }
+}

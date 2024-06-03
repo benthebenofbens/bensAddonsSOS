@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_purple_rhododendron_top": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bensaddons:purple_cut_rhododendron"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bensaddons:purple_rhododendron_top_cut"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_purple_rhododendron_top"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bensaddons:purple_rhododendron_top_cut"
+    ]
+  },
+  "sends_telemetry_event": false
+}

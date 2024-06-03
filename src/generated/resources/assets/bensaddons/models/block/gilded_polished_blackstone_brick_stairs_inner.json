@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "bensaddons:block/gilded_polished_blackstone_bricks",
+    "side": "bensaddons:block/gilded_polished_blackstone_bricks",
+    "top": "bensaddons:block/gilded_polished_blackstone_bricks"
+  }
+}
